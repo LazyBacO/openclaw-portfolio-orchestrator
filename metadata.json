@@ -1,0 +1,8 @@
+{
+  "name": "OpenClaw Wealth Orchestrator",
+  "description": "High-performance multi-agent dashboard for stock portfolio optimization. Integrates OpenClaw orchestration with Gemini 3 Pro for real-time market analysis, position management, and voice-enabled strategic advice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
